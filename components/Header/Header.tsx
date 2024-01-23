@@ -68,11 +68,11 @@ const Header = () => {
       <div className="px-4 py-5 container mx-auto">
         <div className="relative flex items-center justify-between">
           <Image
-            src="/assets/hubivlogo.png"
-            width={200}
-            height={100}
+            src="/assets/hubivbarlogov2.png" 
+            width={300}
+            height={200}
             alt=""
-            className="w-[160px] object-contain h-auto"
+            className="w-[240px] object-contain h-auto"
           />
 
           <ul className="flex items-center hidden space-x-8 lg:flex">
@@ -106,9 +106,9 @@ const Header = () => {
                 <div className="p-5 bg-white border rounded shadow-sm">
                   <div className="flex items-center justify-between mb-4">
                     <Image
-                      src="/assets/hubivlogo.png"
-                      width={200}
-                      height={100}
+                      src="/assets/hubivbarlogov2.png"
+                      width={300}
+                      height={200}
                       alt=""
                       className="w-full"
                     />

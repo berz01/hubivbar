@@ -75,7 +75,7 @@ const FAQ = () => {
       title: "How much is The Hub IV Bar Aesthetic Boutique's medical weight loss program?",
       des:
         "The Hub IV Bar Aesthetic Boutique's medical weight loss program will create a customized prescription plan. Guided by doctors you will receive a personalized plan, medication, and support.\n" +
-        "The cost is $300 for the 1st month, which includes Medical Telehealth Consultation, Prescription, 1-Month of Segmaglutide Medication, and Shipping",
+        "The cost is $385 for the 1st month, which includes Medical Telehealth Consultation, Prescription, 1-Month of Segmaglutide Medication, and Shipping",
     },
     {
       title: "Safety Information",
